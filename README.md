@@ -8,6 +8,9 @@ Currently reports hourly data on:
 
 To do:
 1. What else is interesting at 1 hour intervals?
+  
   a. Reddit
+  
   b. The Guardian
+  
   c. Twitter
